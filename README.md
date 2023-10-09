@@ -7,7 +7,7 @@ This project provides a simple tool to visualize the famous Iris dataset. It all
 Run the program in a Python environment:
 
 ```
-python iris_plotter.py
+python script.py
 ```
 
 Upon execution, the program will prompt you to enter the file name containing the Iris dataset. Afterward, you can choose any two features to plot against each other. The program will continue to prompt for new plots until you decide to stop.
